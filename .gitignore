@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Images (você pode adicionar suas imagens localmente)
+*.jpg
+*.png
+*.jpeg
+*.gif
+
+# Logs
+*.log
